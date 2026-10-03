@@ -17,9 +17,6 @@ dependencies = [
     "tensorflow>=2.21.0",
 ]
 
-[project.scripts]
-fashion-mnist-deep-learning-project = "fashion_mnist_deep_learning_project:main"
-
 [build-system]
 requires = ["uv_build>=0.12.13,<0.13.0"]
 build-backend = "uv_build"
