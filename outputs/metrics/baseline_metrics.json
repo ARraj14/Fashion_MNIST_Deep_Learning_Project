@@ -1,0 +1,24 @@
+{
+    "model": "Baseline Dense Neural Network",
+    "seed": 42,
+    "epochs_completed": 20,
+    "best_epoch": 19,
+    "test_loss": 0.33204397559165955,
+    "test_accuracy": 0.8810999989509583,
+    "correct_predictions": 8811,
+    "incorrect_predictions": 1189,
+    "mean_correct_confidence": 0.918232262134552,
+    "mean_incorrect_confidence": 0.6441777944564819,
+    "per_class_accuracy": {
+        "T-shirt/top": 0.824,
+        "Trouser": 0.967,
+        "Pullover": 0.771,
+        "Dress": 0.866,
+        "Coat": 0.821,
+        "Sandal": 0.968,
+        "Shirt": 0.703,
+        "Sneaker": 0.948,
+        "Bag": 0.977,
+        "Ankle boot": 0.966
+    }
+}

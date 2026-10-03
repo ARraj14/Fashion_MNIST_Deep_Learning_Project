@@ -1,0 +1,24 @@
+{
+    "baseline_accuracy": 0.8811,
+    "cnn_accuracy": 0.9334,
+    "absolute_accuracy_gain": 0.05230000000000001,
+    "baseline_errors": 1189,
+    "cnn_errors": 666,
+    "errors_eliminated": 523,
+    "relative_error_reduction": 0.43986543313709,
+    "both_correct": 8619,
+    "both_wrong": 474,
+    "cnn_fixed_baseline_errors": 715,
+    "cnn_new_errors": 192,
+    "mcnemar_exact_p_value": 1.7373549907259994e-71,
+    "baseline_ece": 0.010428979741036857,
+    "cnn_ece": 0.02020561927258964,
+    "confidence_summary": {
+        "baseline_mean_confidence": 0.8856472373008728,
+        "cnn_mean_confidence": 0.9535272717475891,
+        "baseline_correct_confidence": 0.9182322025299072,
+        "baseline_wrong_confidence": 0.6441777944564819,
+        "cnn_correct_confidence": 0.9691875576972961,
+        "cnn_wrong_confidence": 0.7340487241744995
+    }
+}

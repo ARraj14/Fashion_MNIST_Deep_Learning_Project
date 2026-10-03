@@ -1,0 +1,66 @@
+{
+    "model": "Convolutional Neural Network",
+    "seed": 42,
+    "epochs_completed": 25,
+    "best_epoch": 21,
+    "test_loss": 0.2063399851322174,
+    "test_accuracy": 0.9333999752998352,
+    "correct_predictions": 9334,
+    "incorrect_predictions": 666,
+    "mean_correct_confidence": 0.9691875576972961,
+    "mean_incorrect_confidence": 0.7340487241744995,
+    "per_class_accuracy": {
+        "T-shirt/top": 0.884,
+        "Trouser": 0.982,
+        "Pullover": 0.91,
+        "Dress": 0.932,
+        "Coat": 0.924,
+        "Sandal": 0.99,
+        "Shirt": 0.783,
+        "Sneaker": 0.98,
+        "Bag": 0.987,
+        "Ankle boot": 0.962
+    },
+    "top_misclassification_pairs": [
+        {
+            "pair": "T-shirt/top -> Shirt",
+            "count": 83
+        },
+        {
+            "pair": "Shirt -> T-shirt/top",
+            "count": 83
+        },
+        {
+            "pair": "Shirt -> Coat",
+            "count": 61
+        },
+        {
+            "pair": "Shirt -> Pullover",
+            "count": 41
+        },
+        {
+            "pair": "Coat -> Shirt",
+            "count": 38
+        },
+        {
+            "pair": "Pullover -> Shirt",
+            "count": 35
+        },
+        {
+            "pair": "Ankle boot -> Sneaker",
+            "count": 34
+        },
+        {
+            "pair": "Pullover -> Coat",
+            "count": 34
+        },
+        {
+            "pair": "Shirt -> Dress",
+            "count": 28
+        },
+        {
+            "pair": "Dress -> Shirt",
+            "count": 26
+        }
+    ]
+}

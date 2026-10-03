@@ -1,0 +1,15 @@
+{
+    "total_test_samples": 10000,
+    "correct_predictions": 9334,
+    "incorrect_predictions": 666,
+    "overall_error_rate": 0.0666,
+    "mean_correct_prediction_margin": 0.9422862529754639,
+    "mean_incorrect_prediction_margin": 0.5173112750053406,
+    "hardest_class": "Shirt",
+    "best_class": "Sandal",
+    "most_common_error": {
+        "true_class": "T-shirt/top",
+        "predicted_class": "Shirt",
+        "count": 83
+    }
+}

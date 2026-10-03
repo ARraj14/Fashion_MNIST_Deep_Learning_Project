@@ -1,0 +1,11 @@
+Metric,Value
+training_samples,60000.0
+test_samples,10000.0
+total_samples,70000.0
+image_height,28.0
+image_width,28.0
+number_of_classes,10.0
+minimum_pixel_value,0.0
+maximum_pixel_value,255.0
+mean_pixel_value,72.94035223214286
+pixel_standard_deviation,90.02118235130526
